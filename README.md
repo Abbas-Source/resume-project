@@ -45,3 +45,11 @@ The back-end is an [HTTP triggered](https://docs.microsoft.com/en-us/azure/azure
 - This is how you can deploy an [Azure Function to Azure with GitHub Actions.](https://github.com/madebygps/cgc-azure-resume/blob/main) Used in backend.main.yml
 - [Implement .NET testing in GitHub Actions.](https://docs.github.com/en/actions/guides/building-and-testing-net)
 
+The First ever page:
+![image](https://user-images.githubusercontent.com/70809245/175765524-bfeef692-1d4f-4768-a671-c3ade7c820a2.png)
+
+Showing Myself:
+![image](https://user-images.githubusercontent.com/70809245/175765546-e7f50343-dff7-4b2c-a836-57863f8ee18c.png)
+
+That's an End to this beauty:
+![image](https://user-images.githubusercontent.com/70809245/175765557-62b9f7e0-537c-4449-bdfe-0dbb261d65b4.png)
